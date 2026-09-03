@@ -1,7 +1,7 @@
 # About Me:
 PRFESSIONAL SUMMARY:<br><br>🔹 Enthusiastic and detail-oriented Data Science graduate with a strong academic foundation in Machine Learning, Deep Learning, Statistics, and programming.<br>💻 Highly skilled in Python, C++, and SQL, with hands-on experience using Google Colab, Jupyter Notebook, Kaggle, and Power BI for data cleaning, analysis, and visualization.<br>📊 During academic projects, successfully applied Predictive Modeling, Regression Analysis, and Classification techniques to solve real-world problems, demonstrating strong analytical thinking and problem-solving abilities.<br>📈 Well-versed in statistical concepts, Data Preprocessing, and data visualization methods to effectively communicate findings to both technical and non-technical audiences.<br>🚀 A motivated learner who stays current with emerging technologies in Artificial Intelligence, Big Data, and Cloud Computing.
 
-## Social Links:
+# Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zaigham-abbas-181354242) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaighamabbasprince@gmail.com) 
 
 # Technology Stack:
@@ -12,5 +12,5 @@ PRFESSIONAL SUMMARY:<br><br>🔹 Enthusiastic and detail-oriented Data Science g
 ![](https://streak-stats.demolab.com/?user=Zaighamabbas1234&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zaighamabbas1234&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Quote of the Day:
+# Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
