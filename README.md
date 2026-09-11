@@ -1,3 +1,6 @@
+
+---
+
 # About Me:
 ## PRFESSIONAL SUMMARY:
 🔹 Enthusiastic and detail-oriented Data Science graduate with a strong academic foundation in Machine Learning, Deep Learning, Statistics, and programming.<br>💻 Highly skilled in Python, C++, and SQL, with hands-on experience using Google Colab, Jupyter Notebook, Kaggle, and Power BI for data cleaning, analysis, and visualization.<br>📊 During academic projects, successfully applied Predictive Modeling, Regression Analysis, and Classification techniques to solve real-world problems, demonstrating strong analytical thinking and problem-solving abilities.<br>📈 Well-versed in statistical concepts, Data Preprocessing, and data visualization methods to effectively communicate findings to both technical and non-technical audiences.<br>🚀 A motivated learner who stays current with emerging technologies in Artificial Intelligence, Big Data, and Cloud Computing.
