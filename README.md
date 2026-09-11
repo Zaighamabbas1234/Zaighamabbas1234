@@ -19,5 +19,9 @@
 ![](https://streak-stats.demolab.com/?user=Zaighamabbas1234&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zaighamabbas1234&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 # Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
